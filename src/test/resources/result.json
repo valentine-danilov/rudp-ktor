@@ -1,0 +1,110 @@
+{
+  "AEMAILCONF": [
+    "customerFormalName",
+    "confirmationExpiryDate",
+    "website",
+    "confirmationCode",
+    "customerFirstName"
+  ],
+  "AHLOYACONF": [],
+  "APMEMBWELC": [
+    "urlMailImages",
+    "website",
+    "confirmationCode",
+    "memberEventId"
+  ],
+  "EMAILCONF": [
+    "urlMailImages",
+    "website",
+    "customerFormalName",
+    "customerEmailAddress",
+    "confirmationExpiryDate",
+    "confirmationCode",
+    "customerFirstName"
+  ],
+  "LOCKMEMBER": [
+    "customerFormalName",
+    "username",
+    "confirmationExpiryDate",
+    "website",
+    "confirmationCode"
+  ],
+  "LOGINPASSW": [
+    "urlMailImages",
+    "website",
+    "customerFormalName",
+    "username"
+  ],
+  "RESETPASS1": [
+    "customerFormalName",
+    "username",
+    "confirmationExpiryDate",
+    "website",
+    "confirmationCode"
+  ],
+  "ETRESETPWD": [
+    "customerFirstName",
+    "websiteEtos",
+    "myPathEtos",
+    "confirmationCode",
+    "confirmationExpiryDate"
+  ],
+  "ETLOCKMEMB": [
+    "websiteEtos",
+    "myPathEtos",
+    "confirmationCode",
+    "confirmationExpiryDate"
+  ],
+  "ETLOGINPWD": [],
+  "ETMAILCONF": [
+    "requestEmailAddress",
+    "websiteEtos",
+    "myPathEtos",
+    "confirmationCode",
+    "confirmationExpiryDate"
+  ],
+  "BERESETPWD": [
+    "customerFormalName",
+    "username",
+    "confirmationExpiryDate",
+    "confirmationCode"
+  ],
+  "BEMEMBWELC": [
+    "urlMailImages",
+    "customerFormalName",
+    "confirmationCode",
+    "memberEventId"
+  ],
+  "BELOYACONF": [
+    "customerFormalName"
+  ],
+  "BELOGINPSW": [
+    "customerFormalName",
+    "username"
+  ],
+  "BELOCKMEMB": [
+    "customerFormalName",
+    "username",
+    "confirmationExpiryDate",
+    "confirmationCode"
+  ],
+  "BEEMAILCON": [
+    "customerFormalName",
+    "confirmationExpiryDate",
+    "confirmationCode"
+  ],
+  "ALL": [
+    "customerFormalName",
+    "confirmationExpiryDate",
+    "website",
+    "confirmationCode",
+    "customerFirstName",
+    "urlMailImages",
+    "memberEventId",
+    "customerEmailAddress",
+    "username",
+    "websiteEtos",
+    "myPathEtos",
+    "requestEmailAddress"
+  ]
+}
